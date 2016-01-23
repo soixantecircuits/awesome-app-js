@@ -1,10 +1,15 @@
 # Awesome app
 
-All the lib we have used and we love. This list respect the Single [Responsibility Principle](https://en.wikipedia.org/wiki/Single_responsibility_principle).
-This means, each of them do something chirurgically and do it well. When you build your project you will not need them all :)
+This document list all the javascript libs used at [Soixante circuits](http://soixantecircuits.fr). They are compatible with Webpack and run in the browser and / or node only.
+
+There are tons of libs out there. You certainly not need them all. For sure it's a pain to test, check, and push the limit of each of them when you start a new project. To ease the process of development, we decided to stick to some of the libs we really enjoyed to use. They are selected because they did not fail our test and have been use in website or in application for clients and for internal projects. All of them are under the **MIT licence**.
+Every month we test the ease of use, the learning curve, the maintenance of these libs. We won't reinvent the wheel so lets keep improving and focus our energy on the libs that already exist.
+This list respects the [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single_responsibility_principle). This means each of them do something chirurgically and do it well. When you build your project you will not need them all :)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hexagonal.svg/295px-Hexagonal.svg.png" align="right" width=100>](https://github.com/soixantecircuits/neodymium) This list is maintened continuously and serves as a startup prompt for [Neodymium Generator](https://github.com/soixantecircuits/neodymium).
 **Neodymium** allows to built interactive applications fast and without any pain. It brings Webpack and tested set of libs out of the box, tested in production ready projects.
+
+Let's build something great ! ⚒
 
 ## Routing
 Name | Description | npm command | Trend
@@ -22,7 +27,10 @@ Name | Description | npm command | Trend
 
 ## Request
 https://github.com/visionmedia/superagent
+
+## Caching
 https://github.com/jpodwys/superagent-cache
+Bifrost: https://github.com/soixantecircuits/bifrost
 
 ## Persistent data
 native localstorage (RTFM)
@@ -36,7 +44,6 @@ Machina.js
 GSAP
 tween.js
 elementTransitions.js
-
 
 ## Image manipulation
 Reisze: https://github.com/brunosimon/burno.js/blob/dev/src/tools/resizer.class.js
@@ -106,3 +113,8 @@ stats.js
 ## Tracking
 https://github.com/soixantecircuits/off
 amplitude
+
+## Social network
+https://github.com/ttezel/twit
+https://github.com/totemstech/instagram-node
+https://github.com/node-facebook/facebook-node-sdk
