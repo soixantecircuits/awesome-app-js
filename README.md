@@ -1,7 +1,7 @@
 # Awesome app
 
-All the lib we have used and we love. This list serve the Single [Responsibility Principle](https://en.wikipedia.org/wiki/Single_responsibility_principle).
-You might not need them all :)
+All the lib we have used and we love. This list respect the Single [Responsibility Principle](https://en.wikipedia.org/wiki/Single_responsibility_principle).
+This means, each of them do something chirurgically and do it well. When you build your project you will not need them all :)
 
 This list is maintened continuously and serves as a startup prompt for Neodymium Generator [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hexagonal.svg/295px-Hexagonal.svg.png" align="right" width=100>](https://github.com/soixantecircuits/neodymium). Neodymium allows to built interactive application fast and without any pain, bringing Webpack and tested set of libs, tested in production ready projects.
 
