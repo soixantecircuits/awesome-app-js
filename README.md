@@ -12,14 +12,14 @@ This list respects the [Single Responsibility Principle](https://en.wikipedia.or
 Let's build something great ! ⚒
 
 ## Routing
-Name | Description | npm command | Trend
-------------- | ------------- | ------------- | ------------- | -------------
+Name | Description | npm command | Trend | Compatibility | Original-Team
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
 [Crossroads](https://millermedeiros.github.io/crossroads.js/) | It parses a string input and decides which action should | `npm i --save crossroads` | [<img src="https://img.shields.io/npm/dm/crossroads.svg" align="right">](https://www.npmjs.com/package/crossroads)
 [Hasher](https://github.com/millermedeiros/hasher/)  | Set of functions to control browser history | `npm i --save hasher` | [<img src="https://img.shields.io/npm/dm/hasher.svg" align="right">](https://www.npmjs.com/package/hasher)
 
 ## Communication
-Name | Description | npm command | Trend
-------------- | ------------- | ------------- | ------------- | -------------
+Name | Description | npm command | Trend | Compatibility | Original-Team
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
 [Signals.js](https://millermedeiros.github.io/signals.js/) | similar to an Event Emitter/Dispatcher or a Pub/Sub system | `npm i --save signals` | [<img src="https://img.shields.io/npm/dm/signals.svg" align="right">](https://www.npmjs.com/package/signals)
 [Socket.io](http://socket.io/) | Socket.IO enables real-time bidirectional event-based communication | `npm i --save socket.io` | [<img src="https://img.shields.io/npm/dm/socket.io.svg" align="right">](https://www.npmjs.com/package/socket.io)
 [Spacebro](https://github.com/soixantecircuits/spacebro) | Server for broadcasting socket.io service | `npm i --save spacebro` | [<img src="https://img.shields.io/npm/dm/spacebro.svg" align="right">](https://www.npmjs.com/package/spacebro)
