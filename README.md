@@ -25,6 +25,22 @@ Name | Description | npm command | Trend | Compatibility | Published By
 [Spacebro](https://github.com/soixantecircuits/spacebro) | Server for broadcasting socket.io service | `npm i --save spacebro` | [<img src="https://img.shields.io/npm/dm/spacebro.svg" align="right">](https://www.npmjs.com/package/spacebro) | <ul><li>[ ] Browser</li><li>[ ] NodeJS</li><li>[ ] Both</li></ul> | <ul><li>[ ] Other Sources</li><li>[ ] Official Team</li></ul>
 [Spacebro client](https://github.com/soixantecircuits/spacebro-client) | Connect thru socket.io with ZeroConf | `npm i --save spacebro-client` | [<img src="https://img.shields.io/npm/dm/spacebro-client.svg" align="right">](https://www.npmjs.com/package/spacebro-client) | <ul><li>[ ] Browser</li><li>[ ] NodeJS</li><li>[ ] Both</li></ul> | <ul><li>[ ] Other Sources</li><li>[ ] Official Team</li></ul>
 
+## Breakpoint
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Enquire](http://wicky.nillia.ms/enquire.js) | a lightweight, pure JavaScript library for responding to CSS media queries | git clone git://github.com/WickyNilliams/enquire.js.git && cd enquire.js && npm install && grunt |  | <ul><li>[ ] Browser</li><li>[ ] NodeJS</li><li>[ ] Both</li></ul> | <ul><li>[ ] Other Sources</li><li>[ ] Official Team</li></ul>
+
+## Modernizr
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Modernizr](https://modernizr.com/docs) | Automatically detects the availability of next-generation web technologies in your user's browsers | 'npm install -g modernizr' |  | <ul><li>[ ] Browser</li><li>[ ] NodeJS</li><li>[ ] Both</li></ul> | <ul><li>[ ] Other Sources</li><li>[ ] Official Team</li></ul>
+
+## Analytics
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Analytics](https://www.npmjs.com/package/analytics.js) |  | 'npm install -g modernizr' |  | <ul><li>[ ] Browser</li><li>[ ] NodeJS</li><li>[ ] Both</li></ul> | <ul><li>[ ] Other Sources</li><li>[ ] Official Team</li></ul>
+
+
 ## Request
 https://github.com/visionmedia/superagent
 
