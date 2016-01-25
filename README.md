@@ -14,21 +14,16 @@ Let's build something great ! ⚒
 ## Routing
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Crossroads](https://millermedeiros.github.io/crossroads.js/) | It parses a string input and decides which action should | `npm i --save crossroads` | [<img src="https://img.shields.io/npm/dm/crossroads.svg" align="right">](https://www.npmjs.com/package/crossroads) | - [ ] Browser - [ ] NodeJS - [ ] Both | - [ ] Official Team - [ ] Other Sources 
-[Hasher](https://github.com/millermedeiros/hasher/)  | Set of functions to control browser history | `npm i --save hasher` | [<img src="https://img.shields.io/npm/dm/hasher.svg" align="right">](https://www.npmjs.com/package/hasher) | - [ ] Browser - [ ] NodeJS - [ ] Both | - [ ] Official Team - [ ] Other Sources
+[Crossroads](https://millermedeiros.github.io/crossroads.js/) | It parses a string input and decides which action should | `npm i --save crossroads` | [<img src="https://img.shields.io/npm/dm/crossroads.svg" align="right">](https://www.npmjs.com/package/crossroads) | <ul><li>[ ] Browser</li><li>[ ] NodeJS</li><li>[ ] Both</li></ul> | <ul><li>[ ] Other Sources</li><li>[ ] Official Team</li></ul>
+[Hasher](https://github.com/millermedeiros/hasher/)  | Set of functions to control browser history | `npm i --save hasher` | [<img src="https://img.shields.io/npm/dm/hasher.svg" align="right">](https://www.npmjs.com/package/hasher) | <ul><li>[ ] Browser</li><li>[ ] NodeJS</li><li>[ ] Both</li></ul> | <ul><li>[ ] Other Sources</li><li>[ ] Official Team</li></ul>
 
 ## Communication
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Signals.js](https://millermedeiros.github.io/signals.js/) | similar to an Event Emitter/Dispatcher or a Pub/Sub system | `npm i --save signals` | [<img src="https://img.shields.io/npm/dm/signals.svg" align="right">](https://www.npmjs.com/package/signals) 
-| - [ ] Browser 
-  - [ ] NodeJS 
-  - [ ] Both 
-| - [ ] Official Team 
-  - [ ] Other Sources
-[Socket.io](http://socket.io/) | Socket.IO enables real-time bidirectional event-based communication | `npm i --save socket.io` | [<img src="https://img.shields.io/npm/dm/socket.io.svg" align="right">](https://www.npmjs.com/package/socket.io) | - [ ] Browser - [ ] NodeJS - [ ] Both | - [ ] Official Team - [ ] Other Sources
-[Spacebro](https://github.com/soixantecircuits/spacebro) | Server for broadcasting socket.io service | `npm i --save spacebro` | [<img src="https://img.shields.io/npm/dm/spacebro.svg" align="right">](https://www.npmjs.com/package/spacebro) | - [ ] Browser - [ ] NodeJS - [ ] Both | - [ ] Official Team - [ ] Other Sources
-[Spacebro client](https://github.com/soixantecircuits/spacebro-client) | Connect thru socket.io with ZeroConf | `npm i --save spacebro-client` | [<img src="https://img.shields.io/npm/dm/spacebro-client.svg" align="right">](https://www.npmjs.com/package/spacebro-client) | - [ ] Browser - [ ] NodeJS - [ ] Both | - [ ] Official Team - [ ] Other Sources
+[Signals.js](https://millermedeiros.github.io/signals.js/) | similar to an Event Emitter/Dispatcher or a Pub/Sub system | `npm i --save signals` | [<img src="https://img.shields.io/npm/dm/signals.svg" align="right">](https://www.npmjs.com/package/signals) | <ul><li>[ ] Browser</li><li>[ ] NodeJS</li><li>[ ] Both</li></ul> | <ul><li>[ ] Other Sources</li><li>[ ] Official Team</li></ul> 
+[Socket.io](http://socket.io/) | Socket.IO enables real-time bidirectional event-based communication | `npm i --save socket.io` | [<img src="https://img.shields.io/npm/dm/socket.io.svg" align="right">](https://www.npmjs.com/package/socket.io) | <ul><li>[ ] Browser</li><li>[ ] NodeJS</li><li>[ ] Both</li></ul> | <ul><li>[ ] Other Sources</li><li>[ ] Official Team</li></ul>
+[Spacebro](https://github.com/soixantecircuits/spacebro) | Server for broadcasting socket.io service | `npm i --save spacebro` | [<img src="https://img.shields.io/npm/dm/spacebro.svg" align="right">](https://www.npmjs.com/package/spacebro) | <ul><li>[ ] Browser</li><li>[ ] NodeJS</li><li>[ ] Both</li></ul> | <ul><li>[ ] Other Sources</li><li>[ ] Official Team</li></ul>
+[Spacebro client](https://github.com/soixantecircuits/spacebro-client) | Connect thru socket.io with ZeroConf | `npm i --save spacebro-client` | [<img src="https://img.shields.io/npm/dm/spacebro-client.svg" align="right">](https://www.npmjs.com/package/spacebro-client) | <ul><li>[ ] Browser</li><li>[ ] NodeJS</li><li>[ ] Both</li></ul> | <ul><li>[ ] Other Sources</li><li>[ ] Official Team</li></ul>
 
 ## Request
 https://github.com/visionmedia/superagent
