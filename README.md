@@ -41,31 +41,49 @@ Name | Description | npm command | Trend | Compatibility | Published By
 [GATracks](https://github.com/andjosh/gatrack.js) |  | 'npm install gatrack' 
 
 ## KonamiCode
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
 [Cheet](https://namuol.github.io/cheet.js/) |  | 'npm install cheet.js'
 https://namuol.github.io/cheet.js/
 
 ## Keyboard Keypress
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
 [Mousetrap](https://craig.is/killing/mice) |  | 'npm install mousetrap'
 
 ## Mouse Wheel
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
 [Hamsterjs](http://monospaced.github.io/hamster.js/) |  | 'https://www.npmjs.com/package/hamsterjs'
 
 ## Custom Scrollbar
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
 [Gemini](http://noeldelgado.github.io/gemini-scrollbar/) |  | 'npm i gemini-scrollbar --save
 
 ## Resizer 
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
 [Resizer](https://github.com/gestixi/image-scale) needs to be made JQueryless|  |
 
 ## Viewport
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
 [Viewport](http://verge.airve.com/) |  |
 
 ## StringJS
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
 [StringJS](http://www.stringjs.com/) |  |
 
 ## RetinaJS
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
 [RetinaJS](https://github.com/imulus/retinajs) |  | npm install retina.js (might not be same team)
 
 ## CSS Selector Engine
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
 [Sizzle](http://sizzlejs.com/) |  |  npm install sizzle (might not be same team) (to test if automatic css prefixing)
 
 
