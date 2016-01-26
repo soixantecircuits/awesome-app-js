@@ -38,7 +38,35 @@ Name | Description | npm command | Trend | Compatibility | Published By
 ## Analytics
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Analytics](https://www.npmjs.com/package/analytics.js) |  | 'npm install -g modernizr' |  | <ul><li>[ ] Browser</li><li>[ ] NodeJS</li><li>[ ] Both</li></ul> | <ul><li>[ ] Other Sources</li><li>[ ] Official Team</li></ul>
+[GATracks](https://github.com/andjosh/gatrack.js) |  | 'npm install gatrack' 
+
+## KonamiCode
+[Cheet](https://namuol.github.io/cheet.js/) |  | 'npm install cheet.js'
+https://namuol.github.io/cheet.js/
+
+## Keyboard Keypress
+[Mousetrap](https://craig.is/killing/mice) |  | 'npm install mousetrap'
+
+## Mouse Wheel
+[Hamsterjs](http://monospaced.github.io/hamster.js/) |  | 'https://www.npmjs.com/package/hamsterjs'
+
+## Custom Scrollbar
+[Gemini](http://noeldelgado.github.io/gemini-scrollbar/) |  | 'npm i gemini-scrollbar --save
+
+## Resizer 
+[Resizer](https://github.com/gestixi/image-scale) needs to be made JQueryless|  |
+
+## Viewport
+[Viewport](http://verge.airve.com/) |  |
+
+## StringJS
+[StringJS](http://www.stringjs.com/) |  |
+
+## RetinaJS
+[RetinaJS](https://github.com/imulus/retinajs) |  | npm install retina.js (might not be same team)
+
+## CSS Selector Engine
+[Sizzle](http://sizzlejs.com/) |  |  npm install sizzle (might not be same team) (to test if automatic css prefixing)
 
 
 ## Request
