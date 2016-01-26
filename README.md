@@ -44,7 +44,6 @@ Name | Description | npm command | Trend | Compatibility | Published By
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 [Cheet](https://namuol.github.io/cheet.js/) |  | 'npm install cheet.js'
-https://namuol.github.io/cheet.js/
 
 ## Keyboard Keypress
 Name | Description | npm command | Trend | Compatibility | Published By
@@ -59,22 +58,22 @@ Name | Description | npm command | Trend | Compatibility | Published By
 ## Custom Scrollbar
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Gemini](http://noeldelgado.github.io/gemini-scrollbar/) |  | 'npm i gemini-scrollbar --save
+[Gemini](http://noeldelgado.github.io/gemini-scrollbar/) |  | 'npm i gemini-scrollbar --save'
 
 ## Resizer 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Resizer](https://github.com/gestixi/image-scale) needs to be made JQueryless|  |
+[Resizer](https://github.com/gestixi/image-scale) needs to be made JQueryless
 
 ## Viewport
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Viewport](http://verge.airve.com/) |  |
+[Viewport](http://verge.airve.com/)
 
 ## StringJS
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[StringJS](http://www.stringjs.com/) |  |
+[StringJS](http://www.stringjs.com/)
 
 ## RetinaJS
 Name | Description | npm command | Trend | Compatibility | Published By
