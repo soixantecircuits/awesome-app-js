@@ -28,7 +28,7 @@ Name | Description | npm command | Trend | Compatibility | Published By
 ## Breakpoint
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Enquire](http://wicky.nillia.ms/enquire.js) | a lightweight, pure JavaScript library for responding to CSS media queries | git clone git://github.com/WickyNilliams/enquire.js.git && cd enquire.js && npm install && grunt |  |![Compatibility](https://img.shields.io/badge/cover-chrome-orange.svg)  | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg) 
+[Enquire](http://wicky.nillia.ms/enquire.js) | a lightweight, pure JavaScript library for responding to CSS media queries | https://www.npmjs.com/package/enquire.js |  |![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg) 
 
 ## Modernizr
 Name | Description | npm command | Trend | Compatibility | Published By
