@@ -48,17 +48,17 @@ Name | Description | npm command | Trend | Compatibility | Published By
 ## Keyboard Keypress
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Mousetrap](https://craig.is/killing/mice) | Simple library for handling keyboard shortcuts | 'npm install mousetrap' | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg) | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg)
+[Mousetrap](https://craig.is/killing/mice) | Simple library for handling keyboard shortcuts | 'npm install mousetrap' | | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg) | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg)
 
 ## Mouse Wheel
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Hamsterjs](http://monospaced.github.io/hamster.js/) | standalone javascript library for cross-browser mouse wheel support | 'https://www.npmjs.com/package/hamsterjs' | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg)  | ![Author](https://img.shields.io/badge/Author-No-red.svg)
+[Hamsterjs](http://monospaced.github.io/hamster.js/) | standalone javascript library for cross-browser mouse wheel support | 'https://www.npmjs.com/package/hamsterjs' | | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg)  | ![Author](https://img.shields.io/badge/Author-No-red.svg)
 
 ## Custom Scrollbar
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Gemini](http://noeldelgado.github.io/gemini-scrollbar/) | Custom overlay-scrollbars with native scrolling mechanism for web applications (Too be replaced) | 'npm i gemini-scrollbar --save' | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg)  | ![Author](https://img.shields.io/badge/Author-Unidentified-lightgrey.sv://img.shields.io/badge/Author-Yes-brightgreen.svg)
+[Gemini](http://noeldelgado.github.io/gemini-scrollbar/) | Custom overlay-scrollbars with native scrolling mechanism for web applications (Too be replaced) | 'npm i gemini-scrollbar --save' | | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg)  | ![Author](https://img.shields.io/badge/Author-Unidentified-lightgrey.sv://img.shields.io/badge/Author-Yes-brightgreen.svg)
 
 ## Resizer 
 Name | Description | npm command | Trend | Compatibility | Published By
