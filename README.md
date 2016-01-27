@@ -14,7 +14,7 @@ Let's build something great ! ⚒
 ## Routing
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Crossroads](https://millermedeiros.github.io/crossroads.js/) | It parses a string input and decides which action should | `npm i --save crossroads` | [<img src="https://img.shields.io/npm/dm/crossroads.svg" align="right">](https://www.npmjs.com/package/crossroads) | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg)  | [![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg)]()
+[Crossroads](https://millermedeiros.github.io/crossroads.js/) | It parses a string input and decides which action should | `npm i --save crossroads` | [<img src="https://img.shields.io/npm/dm/crossroads.svg" align="right">](https://www.npmjs.com/package/crossroads) | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg "Both")  | [![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg)]()
 [Hasher](https://github.com/millermedeiros/hasher/)  | Set of functions to control browser history | `npm i --save hasher` | [<img src="https://img.shields.io/npm/dm/hasher.svg" align="right">](https://www.npmjs.com/package/hasher) | <ul><li>[ ] Browser</li><li>[ ] NodeJS</li><li>[ ] Both</li></ul> | <ul><li>[ ] Other Sources</li><li>[ ] Official Team</li></ul>
 
 ## Communication
