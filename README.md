@@ -14,76 +14,76 @@ Let's build something great ! ⚒
 ## Routing
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Crossroads](https://millermedeiros.github.io/crossroads.js/) | It parses a string input and decides which action should | `npm i --save crossroads` | [<img src="https://img.shields.io/npm/dm/crossroads.svg" align="right">](https://www.npmjs.com/package/crossroads) | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg)  | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg)
-[Hasher](https://github.com/millermedeiros/hasher/)  | Set of functions to control browser history | `npm i --save hasher` | [<img src="https://img.shields.io/npm/dm/hasher.svg" align="right">](https://www.npmjs.com/package/hasher) | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg) | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg) 
+[Crossroads](https://millermedeiros.github.io/crossroads.js/) | It parses a string input and decides which action should | `npm i --save crossroads` | [<img src="https://img.shields.io/npm/dm/crossroads.svg" align="right">](https://www.npmjs.com/package/crossroads) | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg)
+[Hasher](https://github.com/millermedeiros/hasher/)  | Set of functions to control browser history | `npm i --save hasher` | [<img src="https://img.shields.io/npm/dm/hasher.svg" align="right">](https://www.npmjs.com/package/hasher) | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg) 
 
 ## Communication
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Signals.js](https://millermedeiros.github.io/signals.js/) | similar to an Event Emitter/Dispatcher or a Pub/Sub system | `npm i --save signals` | [<img src="https://img.shields.io/npm/dm/signals.svg" align="right">](https://www.npmjs.com/package/signals) | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg)  | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg) 
-[Socket.io](http://socket.io/) | Socket.IO enables real-time bidirectional event-based communication | `npm i --save socket.io` | [<img src="https://img.shields.io/npm/dm/socket.io.svg" align="right">](https://www.npmjs.com/package/socket.io) | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg)  | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg) 
-[Spacebro](https://github.com/soixantecircuits/spacebro) | Server for broadcasting socket.io service | `npm i --save spacebro` | [<img src="https://img.shields.io/npm/dm/spacebro.svg" align="right">](https://www.npmjs.com/package/spacebro) | ![Compatibility](https://img.shields.io/badge/Compatibility-Node-blue.svg)  | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg) 
-[Spacebro client](https://github.com/soixantecircuits/spacebro-client) | Connect thru socket.io with ZeroConf | `npm i --save spacebro-client` | [<img src="https://img.shields.io/npm/dm/spacebro-client.svg" align="right">](https://www.npmjs.com/package/spacebro-client) |![Compatibility](https://img.shields.io/badge/Compatibility-Node-blue.svg)  | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg) 
+[Signals.js](https://millermedeiros.github.io/signals.js/) | similar to an Event Emitter/Dispatcher or a Pub/Sub system | `npm i --save signals` | [<img src="https://img.shields.io/npm/dm/signals.svg" align="right">](https://www.npmjs.com/package/signals) | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg) 
+[Socket.io](http://socket.io/) | Socket.IO enables real-time bidirectional event-based communication | `npm i --save socket.io` | [<img src="https://img.shields.io/npm/dm/socket.io.svg" align="right">](https://www.npmjs.com/package/socket.io) | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg) 
+[Spacebro](https://github.com/soixantecircuits/spacebro) | Server for broadcasting socket.io service | `npm i --save spacebro` | [<img src="https://img.shields.io/npm/dm/spacebro.svg" align="right">](https://www.npmjs.com/package/spacebro) | ![Compatibility](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg) 
+[Spacebro client](https://github.com/soixantecircuits/spacebro-client) | Connect thru socket.io with ZeroConf | `npm i --save spacebro-client` | [<img src="https://img.shields.io/npm/dm/spacebro-client.svg" align="right">](https://www.npmjs.com/package/spacebro-client) |![Compatibility](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg) 
 
 ## Breakpoint
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Enquire](http://wicky.nillia.ms/enquire.js) | a lightweight, pure JavaScript library for responding to CSS media queries | git clone git://github.com/WickyNilliams/enquire.js.git && cd enquire.js && npm install && grunt |  |![Compatibility](https://img.shields.io/badge/Compatibility-Browser-yellow.svg)  | ![Author](https://img.shields.io/badge/Author-Unidentified-lightgrey.svg) 
+[Enquire](http://wicky.nillia.ms/enquire.js) | a lightweight, pure JavaScript library for responding to CSS media queries | git clone git://github.com/WickyNilliams/enquire.js.git && cd enquire.js && npm install && grunt |  |![Compatibility](https://img.shields.io/badge/cover-chrome-orange.svg)  | ![Author](https://img.shields.io/badge/Author-Unidentified-lightgrey.svg) 
 
 ## Modernizr
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Modernizr](https://modernizr.com/docs) | Automatically detects the availability of next-generation web technologies in your user's browsers | 'npm install -g modernizr' | | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg)  | ![Author](https://img.shields.io/badge/Author-Unidentified-lightgrey.sv://img.shields.io/badge/Author-Yes-brightgreen.svg)
+[Modernizr](https://modernizr.com/docs) | Automatically detects the availability of next-generation web technologies in your user's browsers | 'npm install -g modernizr' | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/Author-Unidentified-lightgrey.svg)
 
 ## Analytics
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[GATracks](https://github.com/andjosh/gatrack.js) | Easily track user events with Google Analytics | 'npm install gatrack' | | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg)  | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg) 
+[GATracks](https://github.com/andjosh/gatrack.js) | Easily track user events with Google Analytics | 'npm install gatrack' | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg) 
 
 ## KonamiCode
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Cheet](https://namuol.github.io/cheet.js/) | easy easter eggs (konami code, etc) for your site | 'npm install cheet.js' | | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg)  | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg)
+[Cheet](https://namuol.github.io/cheet.js/) | easy easter eggs (konami code, etc) for your site | 'npm install cheet.js' | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg)
 
 ## Keyboard Keypress
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Mousetrap](https://craig.is/killing/mice) | Simple library for handling keyboard shortcuts | 'npm install mousetrap' | | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg) | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg)
+[Mousetrap](https://craig.is/killing/mice) | Simple library for handling keyboard shortcuts | 'npm install mousetrap' | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg)
 
 ## Mouse Wheel
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Hamsterjs](http://monospaced.github.io/hamster.js/) | standalone javascript library for cross-browser mouse wheel support | 'https://www.npmjs.com/package/hamsterjs' | | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg)  | ![Author](https://img.shields.io/badge/Author-No-red.svg)
+[Hamsterjs](http://monospaced.github.io/hamster.js/) | standalone javascript library for cross-browser mouse wheel support | 'https://www.npmjs.com/package/hamsterjs' | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/Author-No-red.svg)
 
 ## Custom Scrollbar
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Gemini](http://noeldelgado.github.io/gemini-scrollbar/) | Custom overlay-scrollbars with native scrolling mechanism for web applications (Too be replaced) | 'npm i gemini-scrollbar --save' | | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg)  | ![Author](https://img.shields.io/badge/Author-Unidentified-lightgrey.sv://img.shields.io/badge/Author-Yes-brightgreen.svg)
+[Gemini](http://noeldelgado.github.io/gemini-scrollbar/) | Custom overlay-scrollbars with native scrolling mechanism for web applications (Too be replaced) | 'npm i gemini-scrollbar --save' | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/Author-Unidentified-lightgrey.svg)
 
 ## Resizer 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Image-scale](https://github.com/gestixi/image-scale) needs to be made JQueryless | Scale images to fit or fill any target container via two simple properties: scale and align. | npm install image-scale | | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg)  | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg) 
+[Image-scale](https://github.com/gestixi/image-scale) needs to be made JQueryless | Scale images to fit or fill any target container via two simple properties: scale and align. | npm install image-scale | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg) 
 
 ## Viewport
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Verge](http://verge.airve.com/) | compact set of cross-browser viewport utilities written in native JavaScript | `npm install verge` | | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg) | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg)
+[Verge](http://verge.airve.com/) | compact set of cross-browser viewport utilities written in native JavaScript | `npm install verge` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg)
 
 ## StringJS
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[StringJS](http://www.stringjs.com/) | JavaScript library for the browser or for Node.js that provides extra String methods | `npm install string` | | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg) | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg)
+[StringJS](http://www.stringjs.com/) | JavaScript library for the browser or for Node.js that provides extra String methods | `npm install string` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg)
 
 ## RetinaJS
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[RetinaJS](https://github.com/imulus/retinajs) | open source script that serves high-resolution images to devices with retina displays | npm install retina.js (might not be same team) | | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg) | ![Author](https://img.shields.io/badge/Author-No-red.svg)
+[RetinaJS](https://github.com/imulus/retinajs) | open source script that serves high-resolution images to devices with retina displays | npm install retina.js (might not be same team) | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/Author-No-red.svg)
 
 ## CSS Selector Engine
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Sizzle](http://sizzlejs.com/) | A pure-JavaScript, bottom-up CSS selector engine designed to be easily dropped in to a host library |  npm install sizzle (might not be same team) (to test if automatic css prefixing) | | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg) | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg)
+[Sizzle](http://sizzlejs.com/) | A pure-JavaScript, bottom-up CSS selector engine designed to be easily dropped in to a host library |  npm install sizzle (might not be same team) (to test if automatic css prefixing) | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg)
 
 
 ## Request
