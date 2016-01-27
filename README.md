@@ -83,7 +83,7 @@ Name | Description | npm command | Trend | Compatibility | Published By
 ## CSS Selector Engine
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Sizzle](http://sizzlejs.com/) |  |  npm install sizzle (might not be same team) (to test if automatic css prefixing) | | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg) | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg)
+[Sizzle](http://sizzlejs.com/) | A pure-JavaScript, bottom-up CSS selector engine designed to be easily dropped in to a host library |  npm install sizzle (might not be same team) (to test if automatic css prefixing) | | ![Compatibility](https://img.shields.io/badge/Compatibility-Both-brightgreen.svg) | ![Author](https://img.shields.io/badge/Author-Yes-brightgreen.svg)
 
 
 ## Request
