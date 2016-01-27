@@ -78,7 +78,7 @@ Name | Description | npm command | Trend | Compatibility | Published By
 ## RetinaJS
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[RetinaJS](https://github.com/imulus/retinajs) | open source script that serves high-resolution images to devices with retina displays | npm install retina.js (might not be same team) | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-no-red.svg)
+[RetinaJS](https://github.com/imulus/retinajs) | open source script that serves high-resolution images to devices with retina displays | npm install retina.js | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## CSS Selector Engine
 Name | Description | npm command | Trend | Compatibility | Published By
