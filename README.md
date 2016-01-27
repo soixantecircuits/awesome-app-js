@@ -53,7 +53,7 @@ Name | Description | npm command | Trend | Compatibility | Published By
 ## Mouse Wheel
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Hamsterjs](http://monospaced.github.io/hamster.js/) | standalone javascript library for cross-browser mouse wheel support | 'https://www.npmjs.com/package/hamsterjs' | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-no-red.svg)
+[Hamsterjs](http://monospaced.github.io/hamster.js/) | standalone javascript library for cross-browser mouse wheel support | npm install hamsterjs | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-no-red.svg)
 
 ## Custom Scrollbar
 Name | Description | npm command | Trend | Compatibility | Published By
