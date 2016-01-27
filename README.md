@@ -97,7 +97,7 @@ Name | Description | npm command | Trend | Compatibility | Published By
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Linvodb3](https://github.com/Ivshti/linvodb3) | | npm install retina.js | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Linvodb3](https://github.com/Ivshti/linvodb3) | Model-oriented embedded database, inspired by Mongoose &amp; MongoDB, over LevelUP | npm install linvodb3| | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## State machine
 Name | Description | npm command | Trend | Compatibility | Published By
