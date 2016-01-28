@@ -233,7 +233,7 @@ Name | Description | npm command | Trend | Compatibility | Published By
 ## Tooling
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Idle.js](https://github.com/soixantecircuits/Idle.js) | Script to create handlers for onIdle onActive onHidden onShow statuses, compatible with <script> tag and webpack | npm install idle-js | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Idle.js](https://github.com/soixantecircuits/Idle.js) | Script to create handlers for onIdle onActive onHidden onShow statuses, compatible with `<script>` tag and webpack | npm install idle-js | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
