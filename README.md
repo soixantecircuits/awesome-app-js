@@ -29,7 +29,7 @@ Name | Description | install | Trend | Compat | Authored
 ## Request
 Name | Description | install | Trend | Compat | Authored
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-<a href="https://github.com/visionmedia/superagent" target="_blank">Superagent</a> | small progressive client-side HTTP request library, and Node.js module with the same API, sporting many high-level HTTP client features | ` npm i -S superagent` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://github.com/visionmedia/superagent" target="_blank">Superagent</a> | small progressive client-side HTTP request library, and Node.js module with the same API, sporting many high-level HTTP client features | `npm i -S superagent` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Caching
 Name | Description | install | Trend | Compat | Authored
@@ -112,8 +112,8 @@ Name | Description | install | Trend | Compat | Authored
 <a href="https://github.com/joeferner/node-serialport2" target="_blank">SerialPort2</a> | node.js serial port driver | ` npm i -S serialport2` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/nonolith/node-usb" target="_blank">USB</a>[USB](https://github.com/nonolith/node-usb) | Improved USB library for NodeJS | ` npm i -S usb` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/Benvie/Keyboard" target="_blank">Keyboard</a> | Keyboard as an object in the DOM | ` npm i -S keyboard` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
-<a href="https://namuol.github.io/cheet.js/" target="_blank">Cheet</a> | easy easter eggs (konami code, etc) for your site | ' npm i -S cheet.js' | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
-<a href="https://craig.is/killing/mice" target="_blank">Mousetrap</a> | Simdle library for handling keyboard shortcuts | ' npm i -S mousetrap' | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://namuol.github.io/cheet.js/" target="_blank">Cheet</a> | easy easter eggs (konami code, etc) for your site | `npm i -S cheet.js` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://craig.is/killing/mice" target="_blank">Mousetrap</a> | Simdle library for handling keyboard shortcuts | `npm i -S mousetrap` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="http://monospaced.github.io/hamster.js/" target="_blank">Hamsterjs</a> | standalone javascript library for cross-browser mouse wheel support | ` npm i -S hamsterjs` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-no-red.svg)
 
 ## Camera
