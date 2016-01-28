@@ -25,57 +25,6 @@ Name | Description | npm command | Trend | Compatibility | Published By
 [Spacebro](https://github.com/soixantecircuits/spacebro) | Server for broadcasting socket.io service | `npm i --save spacebro` | [<img src="https://img.shields.io/npm/dm/spacebro.svg" align="right">](https://www.npmjs.com/package/spacebro) | ![Compatibility](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg) 
 [Spacebro client](https://github.com/soixantecircuits/spacebro-client) | Connect thru socket.io with ZeroConf | `npm i --save spacebro-client` | [<img src="https://img.shields.io/npm/dm/spacebro-client.svg" align="right">](https://www.npmjs.com/package/spacebro-client) |![Compatibility](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg) 
 
-## Breakpoint
-Name | Description | npm command | Trend | Compatibility | Published By
-------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Enquire](http://wicky.nillia.ms/enquire.js) | a lightweight, pure JavaScript library for responding to CSS media queries | npm install enquire.js |  |![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg) 
-
-## Modernizr
-Name | Description | npm command | Trend | Compatibility | Published By
-------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Modernizr](https://modernizr.com/docs) | Automatically detects the availability of next-generation web technologies in your user's browsers | 'npm install -g modernizr' | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
-
-## Analytics
-Name | Description | npm command | Trend | Compatibility | Published By
-------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[GATracks](https://github.com/andjosh/gatrack.js) | Easily track user events with Google Analytics | 'npm install gatrack' | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg) 
-
-## KonamiCode
-Name | Description | npm command | Trend | Compatibility | Published By
-------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Cheet](https://namuol.github.io/cheet.js/) | easy easter eggs (konami code, etc) for your site | 'npm install cheet.js' | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
-
-## Keyboard Keypress
-Name | Description | npm command | Trend | Compatibility | Published By
-------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Mousetrap](https://craig.is/killing/mice) | Simple library for handling keyboard shortcuts | 'npm install mousetrap' | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
-
-## Mouse Wheel
-Name | Description | npm command | Trend | Compatibility | Published By
-------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Hamsterjs](http://monospaced.github.io/hamster.js/) | standalone javascript library for cross-browser mouse wheel support | npm install hamsterjs | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-no-red.svg)
-
-## Resizer 
-Name | Description | npm command | Trend | Compatibility | Published By
-------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Image-scale](https://github.com/gestixi/image-scale) needs to be made JQueryless | Scale images to fit or fill any target container via two simple properties: scale and align. | npm install image-scale | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg) 
-
-## Viewport
-Name | Description | npm command | Trend | Compatibility | Published By
-------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Verge](http://verge.airve.com/) | compact set of cross-browser viewport utilities written in native JavaScript | `npm install verge` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
-
-## RetinaJS
-Name | Description | npm command | Trend | Compatibility | Published By
-------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[RetinaJS](https://github.com/imulus/retinajs) | open source script that serves high-resolution images to devices with retina displays | npm install retina.js | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
-
-## CSS Selector Engine
-Name | Description | npm command | Trend | Compatibility | Published By
-------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Sizzle](http://sizzlejs.com/) | A pure-JavaScript, bottom-up CSS selector engine designed to be easily dropped in to a host library |  npm install sizzle (might not be same team) (to test if automatic css prefixing) | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
-
-
 ## Request
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
@@ -133,6 +82,14 @@ Name | Description | npm command | Trend | Compatibility | Published By
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 [Javascript-Load-Image](https://github.com/blueimp/JavaScript-Load-Image) | JavaScript Load Image is a library to load images provided as File or Blob objects or via URL | npm i blueimp-load-image | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Image-scale](https://github.com/gestixi/image-scale) needs to be made JQueryless | Scale images to fit or fill any target container via two simple properties: scale and align. | npm install image-scale | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg) 
+
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[RetinaJS](https://github.com/imulus/retinajs) | open source script that serves high-resolution images to devices with retina displays | npm install retina.js | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Video playback
 Name | Description | npm command | Trend | Compatibility | Published By
@@ -215,6 +172,18 @@ Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 [Keyboard](https://github.com/Benvie/Keyboard) | Keyboard as an object in the DOM | npm install keyboard| | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Cheet](https://namuol.github.io/cheet.js/) | easy easter eggs (konami code, etc) for your site | 'npm install cheet.js' | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Mousetrap](https://craig.is/killing/mice) | Simple library for handling keyboard shortcuts | 'npm install mousetrap' | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Hamsterjs](http://monospaced.github.io/hamster.js/) | standalone javascript library for cross-browser mouse wheel support | npm install hamsterjs | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-no-red.svg)
+
 ## Camera
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
@@ -259,6 +228,22 @@ Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 [Dat-Gui](https://code.google.com/archive/p/dat-gui/) | A lightweight graphical user interface for changing variables in JavaScript | https://www.npmjs.com/package/dat-gui| | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-no-red.svg)
 
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Enquire](http://wicky.nillia.ms/enquire.js) | a lightweight, pure JavaScript library for responding to CSS media queries | npm install enquire.js |  |![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg) 
+
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Modernizr](https://modernizr.com/docs) | Automatically detects the availability of next-generation web technologies in your user's browsers | 'npm install -g modernizr' | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
+
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Verge](http://verge.airve.com/) | compact set of cross-browser viewport utilities written in native JavaScript | `npm install verge` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Sizzle](http://sizzlejs.com/) | A pure-JavaScript, bottom-up CSS selector engine designed to be easily dropped in to a host library |  npm install sizzle (might not be same team) (to test if automatic css prefixing) | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+
 ## Pdf
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
@@ -293,6 +278,10 @@ Name | Description | npm command | Trend | Compatibility | Published By
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 [Amplitude](https://github.com/crookedneighbor/amplitude) | A node wrapper for Amplitude analytics | npm install amplitude | | ![Compatibility](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[GATracks](https://github.com/andjosh/gatrack.js) | Easily track user events with Google Analytics | 'npm install gatrack' | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg) 
 
 ## Social network
 Name | Description | npm command | Trend | Compatibility | Published By
