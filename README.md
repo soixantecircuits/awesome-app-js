@@ -28,7 +28,7 @@ Name | Description | npm command | Trend | Compatibility | Published By
 ## Request
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Superagent](https://github.com/visionmedia/superagent) | small progressive client-side HTTP request library, and Node.js module with the same API, sporting many high-level HTTP client features | npm install superagent | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Superagent](https://github.com/visionmedia/superagent) | small progressive client-side HTTP request library, and Node.js module with the same API, sporting many high-level HTTP client features | `npm install superagent` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Caching
 Name | Description | npm command | Trend | Compatibility | Published By
@@ -38,29 +38,29 @@ Name | Description | npm command | Trend | Compatibility | Published By
 ## Persistent data
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Native LocalStorage](https://developer.mozilla.org/en/docs/Web/API/Window/localStorage) | | [RTFM](https://en.wikipedia.org/wiki/RTFM) | | ![Compatibility](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg))
+[Native LocalStorage](https://developer.mozilla.org/en/docs/Web/API/Window/localStorage) | | [RTFM](https://en.wikipedia.org/wiki/RTFM) | | ![Compatibility](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Lawnchair](https://github.com/brianleroux/lawnchair) | simple json storage | npm install lawnchair | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Lawnchair](https://github.com/brianleroux/lawnchair) | simple json storage | `npm install lawnchair` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Linvodb3](https://github.com/Ivshti/linvodb3) | Model-oriented embedded database, inspired by Mongoose &amp; MongoDB, over LevelUP | npm install linvodb3| | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Linvodb3](https://github.com/Ivshti/linvodb3) | Model-oriented embedded database, inspired by Mongoose &amp; MongoDB, over LevelUP | `npm install linvodb3` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## State machine
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Machina](http://machina-js.org/) | A library for creating powerful and flexible finite state machines | npm install machina | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Machina](http://machina-js.org/) | A library for creating powerful and flexible finite state machines | `npm install machina` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Animation
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[GSAP](npm install gsap) | Think of GSAP as the Swiss Army Knife of web animation...but better | npm install retina.js | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[GSAP](npm install gsap) | Think of GSAP as the Swiss Army Knife of web animation...but better | `npm install gsap` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Tween](https://github.com/tweenjs/tween.js/) | Super simple, fast and easy to use tweening engine | npm install tween.js | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Tween](https://github.com/tweenjs/tween.js/) | Super simple, fast and easy to use tweening engine | `npm install tween.js` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
@@ -77,7 +77,7 @@ Name | Description | npm command | Trend | Compatibility | Published By
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[RgbQuant](https://github.com/leeoniya/RgbQuant.js/tree/master) | color quantization lib | npm install rgbquant | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[RgbQuant](https://github.com/leeoniya/RgbQuant.js/tree/master) | color quantization lib | `npm install rgbquant` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
@@ -85,44 +85,44 @@ Name | Description | npm command | Trend | Compatibility | Published By
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Image-scale](https://github.com/gestixi/image-scale) needs to be made JQueryless | Scale images to fit or fill any target container via two simple properties: scale and align. | npm install image-scale | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg) 
+[Image-scale](https://github.com/gestixi/image-scale) needs to be made JQueryless | Scale images to fit or fill any target container via two simple properties: scale and align. | `npm install image-scale` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg) 
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[RetinaJS](https://github.com/imulus/retinajs) | open source script that serves high-resolution images to devices with retina displays | npm install retina.js | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[RetinaJS](https://github.com/imulus/retinajs) | open source script that serves high-resolution images to devices with retina displays | `npm install retina.js` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Video playback
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[VideoJS](https://github.com/videojs/video.js) | An HTML5 and Flash video player with a common API and skin for both | npm install videojs | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-no-red.svg)
+[VideoJS](https://github.com/videojs/video.js) | An HTML5 and Flash video player with a common API and skin for both | `npm install videojs` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
 
 ## Slider
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Lory](https://www.npmjs.com/package/lory.js) | Touch enabled minimalistic slider written in vanilla JavaScript | npm install lory.js | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Lory](https://www.npmjs.com/package/lory.js) | Touch enabled minimalistic slider written in vanilla JavaScript | `npm install lory.js` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) | JavaScript image gallery for mobile and desktop, modular, framework independen | npm install photoswipe | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) | JavaScript image gallery for mobile and desktop, modular, framework independent | `npm install photoswipe` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Swiper](https://github.com/nolimits4web/swiper/) | Most modern mobile touch slider with hardware accelerated transitions | npm install swiper | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Swiper](https://github.com/nolimits4web/swiper/) | Most modern mobile touch slider with hardware accelerated transitions | `npm install swiper` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Sprite animation
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Motio](https://github.com/darsain/motio) | Small JavaScript library for sprite based animations and panning | | | ![Compatibility](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-no-red.svg)
+[Motio](https://github.com/darsain/motio) | Small JavaScript library for sprite based animations and panning | | | ![Compatibility](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
 
 ## Rendering
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Three](https://github.com/mrdoob/three.js/) | JavaScript 3D library | npm install three | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-no-red.svg)
+[Three](https://github.com/mrdoob/three.js/) | JavaScript 3D library | `npm install three` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-no-red.svg)
 
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Pixi](https://github.com/pixijs/pixi.js) | Pixi.js is a fast lightweight 2D library that works across all devices | https://www.npmjs.com/package/pixi.js | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Pixi](https://github.com/pixijs/pixi.js) | Pixi.js is a fast lightweight 2D library that works across all devices | `npm install pixi.js` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Effects
 Name | Description | npm command | Trend | Compatibility | Published By
@@ -131,46 +131,46 @@ Name | Description | npm command | Trend | Compatibility | Published By
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[StackBlur](https://github.com/flozz/StackBlur) | Fast and almost Gaussian blur | npm i stackblur-canvas | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[StackBlur](https://github.com/flozz/StackBlur) | Fast and almost Gaussian blur | `npm i stackblur-canvas` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Recording
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Html2canvas](https://github.com/niklasvh/html2canvas) | The script allows you to take "screenshots" of webpages or parts of it, directly on the users browser | npm install html2canvas | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Html2canvas](https://github.com/niklasvh/html2canvas) | The script allows you to take "screenshots" of webpages or parts of it, directly on the users browser | `npm install html2canvas` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Animated_gif](https://github.com/sole/Animated_GIF) | Javascript library for creating animated GIFs | npm install animated_gif | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Animated_gif](https://github.com/sole/Animated_GIF) | Javascript library for creating animated GIFs | `npm install animated_gif` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[CCapture](https://github.com/spite/ccapture.js/) | A library to capture canvas-based animations at a fixed framerate | | | ![Compatibility](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-no-red.svg)
+[CCapture](https://github.com/spite/ccapture.js/) | A library to capture canvas-based animations at a fixed framerate | | | ![Compatibility](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Videojs-record](https://github.com/collab-project/videojs-record) | video.js plugin for recording audio/video/image files | npm install videojs-record | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Videojs-record](https://github.com/collab-project/videojs-record) | video.js plugin for recording audio/video/image files | `npm install videojs-record` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Inputs
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Hammer](https://github.com/hammerjs/hammer.js) | A javascript library for multi-touch gestures :// You can touch this | npm install hammerjs | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Hammer](https://github.com/hammerjs/hammer.js) | A javascript library for multi-touch gestures :// You can touch this | `npm install hammerjs` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Piano](https://github.com/soixantecircuits/piano) | Desktop browser keyboard for touch screens — Edit | | | ![Compatibility](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-no-red.svg)
+[Piano](https://github.com/soixantecircuits/piano) | Desktop browser keyboard for touch screens — Edit | | | ![Compatibility](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[SerialPort2](https://github.com/joeferner/node-serialport2) | node.js serial port driver | npm install serialport2 | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[SerialPort2](https://github.com/joeferner/node-serialport2) | node.js serial port driver | `npm install serialport2` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[USB](https://github.com/nonolith/node-usb) | Improved USB library for NodeJS | npm install usb | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[USB](https://github.com/nonolith/node-usb) | Improved USB library for NodeJS | `npm install usb` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Keyboard](https://github.com/Benvie/Keyboard) | Keyboard as an object in the DOM | npm install keyboard| | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Keyboard](https://github.com/Benvie/Keyboard) | Keyboard as an object in the DOM | `npm install keyboard` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
@@ -182,27 +182,27 @@ Name | Description | npm command | Trend | Compatibility | Published By
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Hamsterjs](http://monospaced.github.io/hamster.js/) | standalone javascript library for cross-browser mouse wheel support | npm install hamsterjs | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-no-red.svg)
+[Hamsterjs](http://monospaced.github.io/hamster.js/) | standalone javascript library for cross-browser mouse wheel support | `npm install hamsterjs` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-no-red.svg)
 
 ## Camera
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[WebcamJS](https://github.com/jhuckaby/webcamjs) | HTML5 Webcam Image Capture Library with Flash Fallback | npm install webcamjs | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[WebcamJS](https://github.com/jhuckaby/webcamjs) | HTML5 Webcam Image Capture Library with Flash Fallback | `npm install webcamjs` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Signal processing
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Clmtrackr](https://github.com/auduno/clmtrackr) | Javascript library for precise tracking of facial features via Constrained Local Models | | | ![Compatibility](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-no-brightgreen.svg)
+[Clmtrackr](https://github.com/auduno/clmtrackr) | Javascript library for precise tracking of facial features via Constrained Local Models | | | ![Compatibility](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
 
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Jsfeat](https://github.com/inspirit/jsfeat) | JavaScript Computer Vision library | | | ![Compatibility](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-no-red.svg)
+[Jsfeat](https://github.com/inspirit/jsfeat) | JavaScript Computer Vision library | | | ![Compatibility](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
 
 ## Tooling
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Idle.js](https://github.com/soixantecircuits/Idle.js) | Script to create handlers for onIdle onActive onHidden onShow statuses, compatible with `<script>` tag and webpack | npm install idle-js | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Idle.js](https://github.com/soixantecircuits/Idle.js) | Script to create handlers for onIdle onActive onHidden onShow statuses, compatible with `<script>` tag and webpack | `npm install idle-js` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
@@ -210,31 +210,31 @@ Name | Description | npm command | Trend | Compatibility | Published By
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Offline](https://github.com/hubspot/offline) | Automatically display online/offline indication to your users |  | | ![Compatibility](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-no-brightgreen.svg)
+[Offline](https://github.com/hubspot/offline) | Automatically display online/offline indication to your users |  | | ![Compatibility](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[PerfectScroll](https://noraesae.github.io/perfect-scrollbar/) | minimalistic scrollbar plugin working with jQuery or vanilla JavaScript as well. | npm i perfect-scrollbar | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[PerfectScroll](https://noraesae.github.io/perfect-scrollbar/) | minimalistic scrollbar plugin working with jQuery or vanilla JavaScript as well. | `npm i perfect-scrollbar` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Moment](https://github.com/moment/moment) | Parse, validate, manipulate, and display dates in javascript | npm install moment | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Moment](https://github.com/moment/moment) | Parse, validate, manipulate, and display dates in javascript | `npm install moment` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Signature_pad](https://github.com/szimek/signature_pad) | HTML5 canvas based smooth signature drawing | npm install signature_pad | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Signature_pad](https://github.com/szimek/signature_pad) | HTML5 canvas based smooth signature drawing | `npm install signature_pad` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Dat-Gui](https://code.google.com/archive/p/dat-gui/) | A lightweight graphical user interface for changing variables in JavaScript | https://www.npmjs.com/package/dat-gui| | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-no-red.svg)
+[Dat-Gui](https://code.google.com/archive/p/dat-gui/) | A lightweight graphical user interface for changing variables in JavaScript | `npm install dat-gui` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-no-red.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Enquire](http://wicky.nillia.ms/enquire.js) | a lightweight, pure JavaScript library for responding to CSS media queries | npm install enquire.js |  |![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg) 
+[Enquire](http://wicky.nillia.ms/enquire.js) | a lightweight, pure JavaScript library for responding to CSS media queries | `npm install enquire.js` |  |![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg) 
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Modernizr](https://modernizr.com/docs) | Automatically detects the availability of next-generation web technologies in your user's browsers | 'npm install -g modernizr' | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
+[Modernizr](https://modernizr.com/docs) | Automatically detects the availability of next-generation web technologies in your user's browsers | `npm install -g modernizr` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
@@ -242,60 +242,60 @@ Name | Description | npm command | Trend | Compatibility | Published By
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Sizzle](http://sizzlejs.com/) | A pure-JavaScript, bottom-up CSS selector engine designed to be easily dropped in to a host library |  npm install sizzle (might not be same team) (to test if automatic css prefixing) | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Sizzle](http://sizzlejs.com/) | A pure-JavaScript, bottom-up CSS selector engine designed to be easily dropped in to a host library |  `npm install sizzle` (might not be same team) (to test if automatic css prefixing) | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Pdf
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Pdfmake](https://github.com/bpampuch/pdfmake) | A lightweight graphical user interface for changing variables in JavaScript | npm install pdfmake | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Pdfmake](https://github.com/bpampuch/pdfmake) | A lightweight graphical user interface for changing variables in JavaScript | `npm install pdfmake` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Vue.js](https://github.com/vuejs/vue) | Simple, Fast &amp; Composable MVVM for building interactive interfaces | npm install vue | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Vue.js](https://github.com/vuejs/vue) | Simple, Fast &amp; Composable MVVM for building interactive interfaces | `npm install vue` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[React](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | npm install react | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[React](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | `npm install react` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Perf
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Rstats.js](https://github.com/lmacsen/rstats) | rStats aims to provide a way of measuring and visualizing performance of your code, mainly in apps based on an update loop, like games or interactive experiences. | npm install rstats.js | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Rstats.js](https://github.com/lmacsen/rstats) | rStats aims to provide a way of measuring and visualizing performance of your code, mainly in apps based on an update loop, like games or interactive experiences. | `npm install rstats.js` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Stats.js](https://github.com/mrdoob/stats.js) | JavaScript Performance Monitor | npm install stats.js | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Stats.js](https://github.com/mrdoob/stats.js) | JavaScript Performance Monitor | `npm install stats.js` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Tracking
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Vue.js](https://github.com/vuejs/vue) | Simple, Fast &amp; Composable MVVM for building interactive interfaces | npm install vue | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Vue.js](https://github.com/vuejs/vue) | Simple, Fast &amp; Composable MVVM for building interactive interfaces | `npm install vue` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Off](https://github.com/soixantecircuits/off) | Allow to track clicks and touchend on a webapp | | | ![Compatibility](https://img.shields.io/badge/cover-chrome-orange.svg)  | ![Author](https://img.shields.io/badge/author-no-red.svg)
+[Off](https://github.com/soixantecircuits/off) | Allow to track clicks and touchend on a webapp | | | ![Compatibility](https://img.shields.io/badge/cover-chrome-orange.svg)  | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Amplitude](https://github.com/crookedneighbor/amplitude) | A node wrapper for Amplitude analytics | npm install amplitude | | ![Compatibility](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Amplitude](https://github.com/crookedneighbor/amplitude) | A node wrapper for Amplitude analytics | `npm install amplitude` | | ![Compatibility](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[GATracks](https://github.com/andjosh/gatrack.js) | Easily track user events with Google Analytics | 'npm install gatrack' | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg) 
+[GATracks](https://github.com/andjosh/gatrack.js) | Easily track user events with Google Analytics | `npm install gatrack` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg) 
 
 ## Social network
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Amplitude](https://github.com/crookedneighbor/amplitude) | A node wrapper for Amplitude analytics | npm install amplitude | | ![Compatibility](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Amplitude](https://github.com/crookedneighbor/amplitude) | A node wrapper for Amplitude analytics | `npm install amplitude` | | ![Compatibility](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Twit](https://github.com/ttezel/twit) | Twitter API client for node (REST &amp; Streaming) | npm install twit | | ![Compatibility](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Twit](https://github.com/ttezel/twit) | Twitter API client for node (REST &amp; Streaming) | `npm install twit` | | ![Compatibility](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Instagram-node](https://github.com/totemstech/instagram-node) | NodeJS driver for the instagram API | npm install instagram-node | | ![Compatibility](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Instagram-node](https://github.com/totemstech/instagram-node) | NodeJS driver for the instagram API | `npm install instagram-node` | | ![Compatibility](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 Name | Description | npm command | Trend | Compatibility | Published By
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Fb](https://github.com/node-facebook/facebook-node-sdk) | With facebook-node-sdk you can now easily write the same code and share between your server (nodejs) and the client (Facebook Javascript SDK) | npm install fb | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+[Fb](https://github.com/node-facebook/facebook-node-sdk) | With facebook-node-sdk you can now easily write the same code and share between your server (nodejs) and the client (Facebook Javascript SDK) | `npm install fb` | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
