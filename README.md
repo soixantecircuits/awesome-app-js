@@ -168,6 +168,8 @@ Name | Description | install | Trend | Compat | Authored
 <a href="https://github.com/node-facebook/facebook-node-sdk" target="_blank">Fb</a> | With facebook-node-sdk you can now easily write the same code and share between your server (nodejs) and the client (Facebook Javascript SDK) | ` npm i -S fb` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Template engine
+Name | Description | install | Trend | Compat | Authored
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
 <a href="https://github.com/vuejs/vue" target="_blank">Vue.js</a> | Simple, Fast &amp; Composable MVVM for building interactive interfaces | ` npm i -S vue` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/facebook/react" target="_blank">React</a>[React](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | ` npm i -S react` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
