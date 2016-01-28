@@ -260,21 +260,53 @@ Name | Description | npm command | Trend | Compatibility | Published By
 [Dat-Gui](https://code.google.com/archive/p/dat-gui/) | A lightweight graphical user interface for changing variables in JavaScript | https://www.npmjs.com/package/dat-gui| | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-no-red.svg)
 
 ## Pdf
-pdfmake
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Pdfmake](https://github.com/bpampuch/pdfmake) | A lightweight graphical user interface for changing variables in JavaScript | npm install pdfmake | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
-## Template
-Vue.js
-React
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Vue.js](https://github.com/vuejs/vue) | Simple, Fast &amp; Composable MVVM for building interactive interfaces | npm install vue | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[React](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | npm install react | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Perf
-rstats.js
-stats.js
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Rstats.js](https://github.com/lmacsen/rstats) | rStats aims to provide a way of measuring and visualizing performance of your code, mainly in apps based on an update loop, like games or interactive experiences. | npm install rstats.js | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Stats.js](https://github.com/mrdoob/stats.js) | JavaScript Performance Monitor | npm install stats.js | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Tracking
-https://github.com/soixantecircuits/off
-amplitude
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Vue.js](https://github.com/vuejs/vue) | Simple, Fast &amp; Composable MVVM for building interactive interfaces | npm install vue | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Off](https://github.com/soixantecircuits/off) | Allow to track clicks and touchend on a webapp | | | ![Compatibility](https://img.shields.io/badge/cover-chrome-orange.svg)  | ![Author](https://img.shields.io/badge/author-no-red.svg)
+
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Amplitude](https://github.com/crookedneighbor/amplitude) | A node wrapper for Amplitude analytics | npm install amplitude | | ![Compatibility](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Social network
-https://github.com/ttezel/twit
-https://github.com/totemstech/instagram-node
-https://github.com/node-facebook/facebook-node-sdk
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Amplitude](https://github.com/crookedneighbor/amplitude) | A node wrapper for Amplitude analytics | npm install amplitude | | ![Compatibility](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Twit](https://github.com/ttezel/twit) | Twitter API client for node (REST &amp; Streaming) | npm install twit | | ![Compatibility](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Instagram-node](https://github.com/totemstech/instagram-node) | NodeJS driver for the instagram API | npm install instagram-node | | ![Compatibility](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+
+Name | Description | npm command | Trend | Compatibility | Published By
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+[Fb](https://github.com/node-facebook/facebook-node-sdk) | With facebook-node-sdk you can now easily write the same code and share between your server (nodejs) and the client (Facebook Javascript SDK) | npm install fb | | ![Compatibility](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
