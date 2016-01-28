@@ -113,7 +113,7 @@ Name | Description | install | Trend | Compat | Authored
 <a href="https://github.com/nonolith/node-usb" target="_blank">USB</a>[USB](https://github.com/nonolith/node-usb) | Improved USB library for NodeJS | ` npm i -S usb` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/Benvie/Keyboard" target="_blank">Keyboard</a> | Keyboard as an object in the DOM | ` npm i -S keyboard` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://namuol.github.io/cheet.js/" target="_blank">Cheet</a> | easy easter eggs (konami code, etc) for your site | ' npm i -S cheet.js' | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
-<a href="https://craig.is/killing/mice" target="_blank">Mousetrap</a> | Simple library for handling keyboard shortcuts | ' npm i -S mousetrap' | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://craig.is/killing/mice" target="_blank">Mousetrap</a> | Simdle library for handling keyboard shortcuts | ' npm i -S mousetrap' | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="http://monospaced.github.io/hamster.js/" target="_blank">Hamsterjs</a> | standalone javascript library for cross-browser mouse wheel support | ` npm i -S hamsterjs` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-no-red.svg)
 
 ## Camera
@@ -156,7 +156,6 @@ Name | Description | install | Trend | Compat | Authored
 ## Tracking
 Name | Description | install | Trend | Compat | Authored
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-<a href="https://github.com/vuejs/vue" target="_blank">Vue.js</a> | Simple, Fast &amp; Composable MVVM for building interactive interfaces | ` npm i -S vue` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/soixantecircuits/off" target="_blank">Off</a>[Off](https://github.com/soixantecircuits/off) | Allow to track clicks and touchend on a webapp | | | ![Compat](https://img.shields.io/badge/cover-chrome-orange.svg)  | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
 <a href="https://github.com/crookedneighbor/amplitude" target="_blank">Amplitude</a> | A node wrapper for Amplitude analytics | ` npm i -S amplitude` | | ![Compat](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/andjosh/gatrack.js" target="_blank">GATracks</a> | Easily track user events with Google Analytics | ` npm i -S gatrack` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg) 
@@ -170,5 +169,5 @@ Name | Description | install | Trend | Compat | Authored
 
 ## Template engine
 <a href="https://github.com/vuejs/vue" target="_blank">Vue.js</a> | Simple, Fast &amp; Composable MVVM for building interactive interfaces | ` npm i -S vue` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
-[React](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | ` npm i -S react` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://github.com/facebook/react" target="_blank">React</a>[React](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | ` npm i -S react` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
