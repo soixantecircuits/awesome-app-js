@@ -37,7 +37,7 @@ Name | Description | install | Trend | Compat | Authored
 Name | Description | install | Trend | Compat | Authored
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 <a href="https://github.com/soixantecircuits/bifrost" target="_blank">Bitfrost</a> | Bifrost cache and queue your POST request when internet is down. It will try to forward your query to the desired endpoint, if it fail it will save the POST data and try to update them periodically. It will forward the response as it is. | | | ![Compat](https://img.shields.io/badge/cover-node-yellow.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
-<a href="https://github.com/jpodwys/superagent-cache" target="_blank">Superagent-cache</a> | Superagent with built-in, customizable caching |  `npm i -S superagent-cache` | | ![Compat](https://img.shields.io/badge/cover-both-brightgreen.svg) | ![Author](https://img.shields.io/badge/author-yes-green.svg)
+<a href="https://github.com/jpodwys/superagent-cache" target="_blank">Superagent-cache</a> | Superagent with built-in, customizable caching |  npm i -S superagent-cache` | | ![Compat](https://img.shields.io/badge/cover-both-brightgreen.svg) | ![Author](https://img.shields.io/badge/author-yes-green.svg)
 
 ## Persistent data
 Name | Description | install | Trend | Compat | Authored
@@ -180,5 +180,3 @@ Name | Description | install | Trend | Compat | Authored
 Name | Description | install | Trend | Compat | Authored
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 <a href="https://github.com/ttezel/twit" target="_blank">Mandrill</a> | JS wrapper for mandrill API  | ` npm i -S mandrill-api` | [<img src="https://img.shields.io/npm/dm/mandrill-api.svg" align="right">](https://www.npmjs.com/package/mandrill-api) | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
-<a href="https://github.com/totemstech/instagram-node" target="_blank">Instagram-node</a>[Instagram-node](https://github.com/totemstech/instagram-node) | NodeJS driver for the instagram API | ` npm i -S instagram-node` | | ![Compat](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
-<a href="https://github.com/node-facebook/facebook-node-sdk" target="_blank">Fb</a> | With facebook-node-sdk you can now easily write the same code and share between your server (nodejs) and the client (Facebook Javascript SDK) | ` npm i -S fb` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
