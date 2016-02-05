@@ -37,7 +37,7 @@ Name | Description | install | Trend | Compat | Authored
 Name | Description | install | Trend | Compat | Authored
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 <a href="https://github.com/soixantecircuits/bifrost" target="_blank">Bitfrost</a> | Bifrost cache and queue your POST request when internet is down. It will try to forward your query to the desired endpoint, if it fail it will save the POST data and try to update them periodically. It will forward the response as it is. | | | ![Compat](https://img.shields.io/badge/cover-node-yellow.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
-<a href="https://github.com/jpodwys/superagent-cache" target="_blank">Superagent-cache</a> | Superagent with built-in, customizable caching |  npm i -S superagent-cache | | ![Compat](https://img.shields.io/badge/cover-both-brightgreen.svg) | ![Author](https://img.shields.io/badge/author-yes-green.svg)
+<a href="https://github.com/jpodwys/superagent-cache" target="_blank">Superagent-cache</a> | Superagent with built-in, customizable caching |  `npm i -S superagent-cache` | | ![Compat](https://img.shields.io/badge/cover-both-brightgreen.svg) | ![Author](https://img.shields.io/badge/author-yes-green.svg)
 
 ## Persistent data
 Name | Description | install | Trend | Compat | Authored
