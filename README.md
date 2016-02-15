@@ -2,7 +2,7 @@
 
 This document list all the javascript libs used at [Soixante circuits](http://soixantecircuits.fr). They are compatible with Webpack and run in the browser and / or node only.
 
-So far **70** libs.
+So far **71** libs.
 
 There are tons of libs out there. You certainly not need them all. For sure it's a pain to test, check, and push the limit of each of them when you start a new project. To ease the process of development, we decided to stick to some of the libs we really enjoyed to use. They are selected because they did not fail our test and have been use in website or in application for clients and for internal projects. All of them are under the **MIT licence**.
 Every month we test the ease of use, the learning curve, the maintenance of these libs. We won't reinvent the wheel so lets keep improving and focus our energy on the libs that already exist.
@@ -72,6 +72,11 @@ Name | Description | install | Trend | Compat | Authored
 Name | Description | install | Trend | Compat | Authored
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 <a href="https://github.com/videojs/video.js" target="_blank">VideoJS</a> | An HTML5 and Flash video player with a common API and skin for both | ` npm i -S videojs` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
+
+## Audio playback
+Name | Description | install | Trend | Compat | Authored
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+<a href="https://github.com/zohararad/audio5js" target="_blank">audio5</a> | Audio5js a library-agnostic, cross-browser Javascript API for HTML5 Audio, with a Flash fallback for either older browsers or modern browsers without MP3 playback support. | ` npm i -S audio5` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Slider
 Name | Description | install | Trend | Compat | Authored
