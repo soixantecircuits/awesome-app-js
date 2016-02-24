@@ -94,7 +94,7 @@ Name | Description | install | Trend | Compat | Authored
 Name | Description | install | Trend | Compat | Authored
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 <a href="https://github.com/vuejs/vue" target="_blank">Vue.js</a> | Simple, Fast &amp; Composable MVVM for building interactive interfaces | ` npm i -S vue` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
-<a href="https://github.com/facebook/react" target="_blank">React</a>[React](https://github.com/facebook/react) | A declarative, efficient, and flexible JavaScript library for building user interfaces. | ` npm i -S react` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://github.com/facebook/react" target="_blank">React</a> | A declarative, efficient, and flexible JavaScript library for building user interfaces. | ` npm i -S react` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 
 ## Rendering
@@ -124,7 +124,7 @@ Name | Description | install | Trend | Compat | Authored
 <a href="https://github.com/hammerjs/hammer.js" target="_blank">Hammer</a> | A javascript library for multi-touch gestures :// You can touch this | ` npm i -S hammerjs` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/soixantecircuits/piano" target="_blank">Piano</a> | Virtual keyboard for touch devices | | | ![Compat](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
 <a href="https://github.com/joeferner/node-serialport2" target="_blank">SerialPort2</a> | node.js serial port driver | ` npm i -S serialport2` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
-<a href="https://github.com/nonolith/node-usb" target="_blank">USB</a>[USB](https://github.com/nonolith/node-usb) | Improved USB library for NodeJS | ` npm i -S usb` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://github.com/nonolith/node-usb" target="_blank">USB</a> | Improved USB library for NodeJS | ` npm i -S usb` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/Benvie/Keyboard" target="_blank">Keyboard</a> | Keyboard as an object in the DOM | ` npm i -S keyboard` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://namuol.github.io/cheet.js/" target="_blank">Cheet</a> | easy easter eggs (konami code, etc) for your site | `npm i -S cheet.js` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://craig.is/killing/mice" target="_blank">Mousetrap</a> | Simdle library for handling keyboard shortcuts | `npm i -S mousetrap` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
@@ -178,7 +178,7 @@ Name | Description | install | Trend | Compat | Authored
 Name | Description | install | Trend | Compat | Authored
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 <a href="https://github.com/ttezel/twit" target="_blank">Twit</a> | Twitter API client for node (REST &amp; Streaming) | ` npm i -S twit` | | ![Compat](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
-<a href="https://github.com/totemstech/instagram-node" target="_blank">Instagram-node</a>[Instagram-node](https://github.com/totemstech/instagram-node) | NodeJS driver for the instagram API | ` npm i -S instagram-node` | | ![Compat](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://github.com/totemstech/instagram-node" target="_blank">Instagram-node</a> | NodeJS driver for the instagram API | ` npm i -S instagram-node` | | ![Compat](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/node-facebook/facebook-node-sdk" target="_blank">Fb</a> | With facebook-node-sdk you can now easily write the same code and share between your server (nodejs) and the client (Facebook Javascript SDK) | ` npm i -S fb` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Tiers service
