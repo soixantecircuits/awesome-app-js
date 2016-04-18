@@ -141,10 +141,15 @@ Name | Description | install | Trend | Compat | Authored
 <a href="https://github.com/auduno/clmtrackr" target="_blank">Clmtrackr</a> | Javascript library for precise tracking of facial features via Constrained Local Models | | | ![Compat](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
 <a href="https://github.com/inspirit/jsfeat" target="_blank">Jsfeat</a> | JavaScript Computer Vision library | | | ![Compat](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
 
+## System
+Name | Description | install | Trend | Compat | Authored
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+<a href="https://github.com/jprichardson/node-fs-extra" target="_blank">fs-extra</a> | extra methods for the fs object like copy(), remove(), mkdirs() | `npm install -S fs-extra` | [<img src="https://img.shields.io/npm/dm/fs-extra.svg" align="right">](https://www.npmjs.com/package/fs-extra) | ![Compat](https://img.shields.io/badge/cover-node-yellow.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+
 ## Tooling
 Name | Description | install | Trend | Compat | Authored
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-<a href="https://github.com/soixantecircuits/Idle.js" target="_blank">Idle.js</a> | Script to create handlers for onIdle onActive onHidden onShow statuses, compatible with `<script>` tag and webpack | ` npm i -S idle-js` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://github.com/soixantecircuits/Idle.js" target="_blank">Idle.js</a> | Script to create handlers for onIdle onActive onHidden onShow statuses, compatible with `<script>` tag and webpack | `npm i -S idle-js` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="http://www.stringjs.com/" target="_blank">StringJS</a> | JavaScript library for the browser or for Node.js that provides extra String methods | ` npm i -S string` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/hubspot/offline" target="_blank">Offline</a> | Automatically display online/offline indication to your users |  | | ![Compat](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
 <a href="https://noraesae.github.io/perfect-scrollbar/" target="_blank">PerfectScroll</a> | minimalistic scrollbar plugin working with jQuery or vanilla JavaScript as well. | ` npm i -S perfect-scrollbar` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
