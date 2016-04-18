@@ -97,11 +97,15 @@ Name | Description | install | Trend | Compat | Authored
 <a href="https://github.com/vuejs/vue" target="_blank">Vue.js</a> | Simple, Fast &amp; Composable MVVM for building interactive interfaces | ` npm i -S vue` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/facebook/react" target="_blank">React</a> | A declarative, efficient, and flexible JavaScript library for building user interfaces. | ` npm i -S react` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
+## DOM playing
+Name | Description | install | Trend | Compat | Authored
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+<a href="https://github.com/feross/drag-drop" target="_blank">drag-drop</a> | HTML5 drag & drop for humans | `npm i -S drag-drop` | [<img src="https://img.shields.io/npm/dm/drag-drop.svg" align="right">](https://www.npmjs.com/package/drag-drop) | ![Compat](https://img.shields.io/badge/cover-chrome-orange.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Rendering
 Name | Description | install | Trend | Compat | Authored
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-<a href="https://github.com/mrdoob/three.js/" target="_blank">Three</a> | JavaScript 3D library | ` npm i -S three` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-no-red.svg)
+<a href="https://github.com/mrdoob/three.js/" target="_blank">Three</a> | JavaScript 3D library | ` npm i -S three` | | ![Compat](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-yes-green.svg)
 <a href="https://github.com/pixijs/pixi.js" target="_blank">Pixi</a> | Pixi.js is a fast lightweight 2D library that works across all devices | ` npm i -S pixi.js` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Effects
