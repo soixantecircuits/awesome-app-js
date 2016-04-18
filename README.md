@@ -101,6 +101,7 @@ Name | Description | install | Trend | Compat | Authored
 Name | Description | install | Trend | Compat | Authored
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 <a href="https://github.com/feross/drag-drop" target="_blank">drag-drop</a> | HTML5 drag & drop for humans | `npm i -S drag-drop` | [<img src="https://img.shields.io/npm/dm/drag-drop.svg" align="right">](https://www.npmjs.com/package/drag-drop) | ![Compat](https://img.shields.io/badge/cover-chrome-orange.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://github.com/bevacqua/dragula" target="_blank">Dragula</a> | :ok_hand: Drag and drop so simple it hurts | `npm i -S dragula` | [<img src="https://img.shields.io/npm/dm/dragula.svg" align="right">](https://www.npmjs.com/package/dragula) | ![Compat](https://img.shields.io/badge/cover-chrome-orange.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Rendering
 Name | Description | install | Trend | Compat | Authored
