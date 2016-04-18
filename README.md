@@ -54,13 +54,14 @@ Name | Description | install | Trend | Compat | Authored
 ## Animation
 Name | Description | install | Trend | Compat | Authored
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-<a href="https://github.com/greensock/GreenSock-JS" target="_blank">GSAP</a> | Think of GSAP as the Swiss Army Knife of web animation...but better | ` npm i -S gsap` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://github.com/greensock/GreenSock-JS" target="_blank">GSAP</a> | Think of GSAP as the Swiss Army Knife of web animation...but better | `npm i -S gsap` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/tweenjs/tween.js/" target="_blank">Tween</a> | Super simple, fast and easy to use tweening engine | ` npm i -S tween.js` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/dan-silver/ElementTransitions" target="_blank">elementTransitions</a> | Simple transitions for web pages | | | ![Compat](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
 
 ## Image manipulation
 Name | Description | install | Trend | Compat | Authored
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+<a href="http://github.com/exine/fabric-browserify" target="_blank">Fabric.js</a> | Play with the canvas | `npm i -S fabric-browserify` | [<img src="https://img.shields.io/npm/dm/fabric-browserify.svg" align="right">](https://www.npmjs.com/package/fabric-browserify) | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/brunosimon/burno.js/blob/dev/src/tools/resizer.class.js" target="_blank">Resizer(burno.js)</a> | Resize elements inside containers according to many possible options | | | ![Compat](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
 <a href="https://gist.github.com/thejefflarson/914435" target="_blank">Zooming</a> | Zooms | | | ![Compat](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
 <a href="https://github.com/leeoniya/RgbQuant.js/tree/master" target="_blank">RgbQuant</a> | color quantization lib | ` npm i -S rgbquant` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
