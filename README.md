@@ -144,7 +144,12 @@ Name | Description | install | Trend | Compat | Authored
 ## System
 Name | Description | install | Trend | Compat | Authored
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-<a href="https://github.com/jprichardson/node-fs-extra" target="_blank">fs-extra</a> | extra methods for the fs object like copy(), remove(), mkdirs() | `npm install -S fs-extra` | [<img src="https://img.shields.io/npm/dm/fs-extra.svg" align="right">](https://www.npmjs.com/package/fs-extra) | ![Compat](https://img.shields.io/badge/cover-node-yellow.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://github.com/jprichardson/node-fs-extra" target="_blank">fs-extra</a> | extra methods for the fs object like copy(), remove(), mkdirs() | `npm i -S fs-extra` | [<img src="https://img.shields.io/npm/dm/fs-extra.svg" align="right">](https://www.npmjs.com/package/fs-extra) | ![Compat](https://img.shields.io/badge/cover-node-yellow.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+
+## Emoji
+Name | Description | install | Trend | Compat | Authored
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+<a href="https://github.com/Ranks/emojione" target="_blank">emojione</a> | EmojiOne™ is the open emoji standard. #iwantemojione http://www.emojione.com | `npm i -S emojione` | [<img src="https://img.shields.io/npm/dm/emojione.svg" align="right">](https://www.npmjs.com/package/emojione) | ![Compat](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Tooling
 Name | Description | install | Trend | Compat | Authored
