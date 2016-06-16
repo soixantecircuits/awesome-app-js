@@ -3,9 +3,6 @@
   "description": " This document list all the javascript libs used at Soixante circuits. They are compatible with Webpack and run in the browser and / or node only. http://soixantecircuits.fr ",
   "repository": "soixantecircuits/awesome-app-js",
   "scripts": {
-    "update": "node count.js && git add -A && git commit -am \"Update lib count\"",
-    "preversion": "node count.js",
-    "version": "git add -A",
-    "postversion": "git commit -am \"Update lib count\""
+    "update": "node count.js && git add -A && git commit -am \"Update lib count\""
   }
 }
