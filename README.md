@@ -90,6 +90,8 @@ Name | Description | install | Trend | Compat | Authored
 Name | Description | install | Trend | Compat | Authored
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 <a href="https://github.com/darsain/motio" target="_blank">Motio</a> | Small JavaScript library for sprite based animations and panning | | | ![Compat](https://img.shields.io/badge/cover-chrome-orange.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
+<a href="https://github.com/krzysztof-o/spritesheet.js/" target="_blank">spritesheet.js</a> | Command-line spritesheet generator supporting Starling / Sparrow, PIXI.js, Easel.js and cocos2d | | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
+<a href="https://www.npmjs.com/package/sprite-anim" target="_blank">sprite-anim</a> | Simple spritesheet animation engine. | `npm i -S sprite-anim` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-unidentified-lightgrey.svg)
 
 ## Template engine
 Name | Description | install | Trend | Compat | Authored
