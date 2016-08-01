@@ -137,6 +137,7 @@ Name | Description | install | Trend | Compat | Authored
 <a href="https://namuol.github.io/cheet.js/" target="_blank">Cheet</a> | easy easter eggs (konami code, etc) for your site | `npm i -S cheet.js` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://craig.is/killing/mice" target="_blank">Mousetrap</a> | Simdle library for handling keyboard shortcuts | `npm i -S mousetrap` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="http://monospaced.github.io/hamster.js/" target="_blank">Hamsterjs</a> | standalone javascript library for cross-browser mouse wheel support | ` npm i -S hamsterjs` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-no-red.svg)
+<a href="https://github.com/monterail/vue-multiselect" target="_blank">vue-multiselect</a> | Probably the most complete selecting solution for Vue.js, without jQuery. | ` npm i -S vue-multiselect` | | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-no-red.svg)
 
 ## Camera
 Name | Description | install | Trend | Compat | Authored
