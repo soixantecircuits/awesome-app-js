@@ -212,3 +212,8 @@ Name | Description | install | Trend | Compat | Authored
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 <a href="http://i18next.com/" target="_blank">i18next</a> | internationalization framework  | ` npm i -S i18next` |  |  |  |
 <a href="https://github.com/kazupon/vue-i18n" target="_blank">vue-i18n</a> | Internationalization plugin of Vue.js  | ` npm i -S vue-i18n`|  |  |  |
+
+## QR code
+Name | Description | install | Trend | Compat | Authored
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+<a href="https://github.com/soldair/node-qrcode" target="_blank">node-qrcode</a> | QR code generator module, supporting multiple sets of characters and auto-generating optimized segments for best data compression and smallest QR Code size. Comes with a CLI.  | `npm install -g qrcode` |  | ![Compat](https://img.shields.io/badge/cover-both-green.svg) | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg) |
