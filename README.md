@@ -2,7 +2,7 @@
 
 This document list all the javascript libs used at [Soixante circuits](http://soixantecircuits.fr). They are compatible with Webpack and run in the browser and / or node only.
 
-So far **71** libs.
+So far **80** libs.
 
 There are tons of libs out there. You certainly not need them all. For sure it's a pain to test, check, and push the limit of each of them when you start a new project. To ease the process of development, we decided to stick to some of the libs we really enjoyed to use. They are selected because they did not fail our test and have been use in website or in application for clients and for internal projects. All of them are under the **MIT licence**.
 Every month we test the ease of use, the learning curve, the maintenance of these libs. We won't reinvent the wheel so lets keep improving and focus our energy on the libs that already exist.
@@ -22,7 +22,7 @@ Name | Description | install | Trend | Compat | Authored
 ## Communication
 Name | Description | install | Trend | Compat | Authored
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-<a href="https://millermedeiros.github.io/signals.js/" target="_blank">Signals.js</a> | similar to an Event Emitter/Dispatcher or a Pub/Sub system | ` npm i -S signals` | [<img src="https://img.shields.io/npm/dm/signals.svg" align="right">](https://www.npmjs.com/package/signals) | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://millermedeiros.github.io/js-signals/" target="_blank">Signals.js</a> | similar to an Event Emitter/Dispatcher or a Pub/Sub system | ` npm i -S signals` | [<img src="https://img.shields.io/npm/dm/signals.svg" align="right">](https://www.npmjs.com/package/signals) | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/socketio/socket.io/" target="_blank">Socket.io/server</a> | Socket.IO enables real-time bidirectional event-based communication | ` npm i -S socket.io` | [<img src="https://img.shields.io/npm/dm/socket.io.svg" align="right">](https://www.npmjs.com/package/socket.io) | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/socketio/socket.io/" target="_blank">Socket.io/client</a> | Socket.IO enables real-time bidirectional event-based communication | ` npm i -S socket.io-client` | [<img src="https://img.shields.io/npm/dm/socket.io.svg" align="right">](https://www.npmjs.com/package/socket.io) | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 <a href="https://github.com/soixantecircuits/spacebro" target="_blank">Spacebro</a> | Server for broadcasting socket.io service | ` npm i -S spacebro` | [<img src="https://img.shields.io/npm/dm/spacebro.svg" align="right">](https://www.npmjs.com/package/spacebro) | ![Compat](https://img.shields.io/badge/cover-node-yellow.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
@@ -205,7 +205,7 @@ Name | Description | install | Trend | Compat | Authored
 ## Tiers service
 Name | Description | install | Trend | Compat | Authored
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-<a href="https://github.com/ttezel/twit" target="_blank">Mandrill</a> | JS wrapper for mandrill API  | ` npm i -S mandrill-api` | [<img src="https://img.shields.io/npm/dm/mandrill-api.svg" align="right">](https://www.npmjs.com/package/mandrill-api) | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://mandrillapp.com/api/docs/index.nodejs.html" target="_blank">Mandrill</a> | JS wrapper for mandrill API  | ` npm i -S mandrill-api` | [<img src="https://img.shields.io/npm/dm/mandrill-api.svg" align="right">](https://www.npmjs.com/package/mandrill-api) | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Translations
 Name | Description | install | Trend | Compat | Authored

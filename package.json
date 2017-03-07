@@ -1,0 +1,8 @@
+{
+  "name": "awesome-app-js",
+  "description": " This document list all the javascript libs used at Soixante circuits. They are compatible with Webpack and run in the browser and / or node only. http://soixantecircuits.fr ",
+  "repository": "soixantecircuits/awesome-app-js",
+  "scripts": {
+    "update": "node count.js && git add -A && git commit -am \"Update lib count\""
+  }
+}
