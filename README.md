@@ -205,7 +205,7 @@ Name | Description | install | Trend | Compat | Authored
 ## Tiers service
 Name | Description | install | Trend | Compat | Authored
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-<a href="https://github.com/ttezel/twit" target="_blank">Mandrill</a> | JS wrapper for mandrill API  | ` npm i -S mandrill-api` | [<img src="https://img.shields.io/npm/dm/mandrill-api.svg" align="right">](https://www.npmjs.com/package/mandrill-api) | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
+<a href="https://mandrillapp.com/api/docs/" target="_blank">Mandrill</a> | JS wrapper for mandrill API  | ` npm i -S mandrill-api` | [<img src="https://img.shields.io/npm/dm/mandrill-api.svg" align="right">](https://www.npmjs.com/package/mandrill-api) | ![Compat](https://img.shields.io/badge/cover-both-green.svg)  | ![Author](https://img.shields.io/badge/author-yes-brightgreen.svg)
 
 ## Translations
 Name | Description | install | Trend | Compat | Authored
